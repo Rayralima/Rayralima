@@ -39,6 +39,12 @@
 
 ### ⭐ Projetos em Destaque
 
+#### SINTRA – Sistema de Predição de Risco de Acidentes de Trânsito
+- **Descrição:** Projeto de ponta a ponta que utiliza Machine Learning para analisar e prever riscos de acidentes de trânsito. O sistema inclui um pipeline de dados completo, um modelo preditivo e um dashboard interativo, com deploy em nuvem.
+- **Ferramentas:** Python, Scikit-learn, Pandas, Plotly, Dash, Flask, Docker.
+- **Status:** ☁️ Aplicação em produção.
+- **[Repositório](https://github.com/PV-Lopes/SINTRA)**
+
 #### Análise de Dados de Atendimentos – Projeto FACEPE
 - **Descrição:** Projeto de extensão para análise de dados e IA, com o objetivo de auxiliar na tomada de decisões em agendamentos no CISAM (Centro Integrado de Saúde Amaury de Medeiros).
 - **Ferramentas:** Python, SQL e Power BI.
@@ -46,7 +52,7 @@
 
 #### Aplicação Web de Gerenciamento – Projetaí
 - **Descrição:** Colaboração no desenvolvimento de uma aplicação web para otimizar o gerenciamento de pedidos da lanchonete da Faculdade Senac.
-- **Ferramentas:** C#, SQL, JavaScript, HTML/CSS.
+- **Ferramentas:** SQL, JavaScript, HTML/CSS.
 - **Status:** 🥇 1º lugar no evento Projetaí 2024.
 
 #### Jogo Educativo – Projeto Chico Sabido
