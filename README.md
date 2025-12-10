@@ -41,7 +41,7 @@
 
 ### 🚦 SINTRA – Sistema de Predição de Risco de Acidentes
 
-![Status](https://img.shields.io/badge/Status-Em_Produção-success)
+![Status](https://img.shields.io/badge/Status-Concluido-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED)
 
@@ -164,7 +164,7 @@ Originalmente estruturado como um sistema de Quiz interativo, o projeto evoluiu 
 
 ### 🏭 PharmaSet: Sistema Avançado de Otimização de Setup e Produtividade Industrial -(FACEPE)
 
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
 ![Team](https://img.shields.io/badge/Team-Multidisciplinar_(Back_Front_Design)-blueviolet)
 ![Doc](https://img.shields.io/badge/Documentação-Formal_(IEEE/ABNT)-gray)
 
