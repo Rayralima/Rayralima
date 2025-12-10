@@ -165,7 +165,7 @@ Originalmente estruturado como um sistema de Quiz interativo, o projeto evoluiu 
 ### 🏭 PharmaSet: Sistema Avançado de Otimização de Setup e Produtividade Industrial -(FACEPE)
 
 ![Status](https://img.shields.io/badge/Status-Conluído-green)
-![Team](https://img.shields.io/badge/Team-Multidisciplinar_(Back_Front_Design)-blueviolet)
+![Team](https://img.shields.io/badge/Team-Multidisciplinar_(Back_Dados)-blueviolet)
 ![Doc](https://img.shields.io/badge/Documentação-Formal_(IEEE/ABNT)-gray)
 
 ### 📋 Visão Geral do Projeto
