@@ -1,7 +1,7 @@
 ### Olá, eu sou a Rayra Lima! 👋
 
 <p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas e uma entusiasta da tecnologia, com foco em Análise e Ciência de Dados. Busco aplicar minhas habilidades para transformar dados em soluções e insights valiosos.
+  Sou graduada em Análise e Desenvolvimento de Sistemas e uma entusiasta da tecnologia, com foco em Análise e Ciência de Dados. Busco aplicar minhas habilidades analíticas e de desenvolvimento para transformar dados em soluções e insights valiosos.
 </p>
 
 <p align="left">
@@ -148,11 +148,11 @@ Originalmente estruturado como um sistema de Quiz interativo, o projeto evoluiu 
 
 ### 🧠 Inteligência Artificial & NLP
 * **Sentence Transformer (SBERT):** Para criação de embeddings e análise de similaridade semântica entre perguntas e respostas.
-* **Hugging Face Transformers:** Implementação de pipelines de modelos pré-treinados.
+* **Hugging Face Transformers:** Implementation de pipelines de modelos pré-treinados.
 * **Frameworks:** PyTorch / TensorFlow.
 
 ### 👁️ Visão Computacional
-* **Detecção de Objetos:** **YOLOv8 (Ultralytics)** treinado para identificação de padrões em imagens.
+* **Detecção de Objetos:** **YOLOv8 (Ultralytics)** treinado para identificação de padrões in imagens.
 * **OCR:** Pré-processamento com **OpenCV** (filtros, binarização) e extração de texto com **Tesseract**.
 
 ### ⚙️ Core & Automação
@@ -162,9 +162,9 @@ Originalmente estruturado como um sistema de Quiz interativo, o projeto evoluiu 
 ---
 *Desenvolvido com foco em Engenharia de Dados e Inteligência Artificial Aplicada.*
 
-### 🏭 PharmaSet: Sistema Avançado de Otimização de Setup e Produtividade Industrial -(FACEPE)
+### 🏭 PharmaSet: Sistema Avançado de Otimização de Setup e Produtividade Industrial - (FACEPE)
 
-![Status](https://img.shields.io/badge/Status-Conluído-green)
+![Status](https://img.shields.io/badge/Status-Concluido-green)
 ![Team](https://img.shields.io/badge/Team-Multidisciplinar_(Back_Dados)-blueviolet)
 ![Doc](https://img.shields.io/badge/Documentação-Formal_(IEEE/ABNT)-gray)
 
@@ -188,7 +188,7 @@ O sistema opera em uma arquitetura de serviços desacoplada, garantindo escalabi
 ### 👨‍💻 Minha Contribuição (Backend & Dados)
 Fui responsável pela implementação do **Core de Regras de Negócio** nas APIs, trabalhando em estreita colaboração com a **Equipe de Dados**:
 * **Implementação de APIs:** Construção de endpoints seguros para consumo das interfaces web.
-* **Regras de Negócio:** Tradução dos requisitos documentais (`CANUCE`/`TO`) em código Python/NestJS, implementando validações estritas de entrada de dados.
+* **Regras de Negócio:** Tradução dos requisitos documentais em código Python/NestJS, implementando validações estritas de entrada de dados.
 * **Tratamento de Exceções:** Criação de camadas de segurança e tratamento de erros para garantir a robustez das transações no banco.
 * **Dashboards:** Colaboração na elaboração de painéis de monitoramento, garantindo que os dados servidos pelas APIs estivessem estruturados corretamente para visualização.
 * **Integridade de Dados:** Validação de *schemas* e tratamento de exceções para garantir a confiabilidade dos relatórios finais.
@@ -200,4 +200,5 @@ Fui responsável pela implementação do **Core de Regras de Negócio** nas APIs
 * **Qualidade:** Validação de Dados e Tratamento de Erros
 
 ---
-*Projeto desenvolvido seguindo especificações técnicas e cronogramas formais (BFI-1176-25).*
+*Projeto desenvolvido seguindo especificações técnicas e cronogramas formais.*
+```
